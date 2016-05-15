@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="lib/Draw9Patch4j_alone.jar"/>
+	<classpathentry kind="lib" path="lib/ninepatch4j.jar"/>
+	<classpathentry kind="lib" path="lib/swing-worker-1.2(1.6-).jar"/>
+	<classpathentry kind="lib" path="lib/AXMLPrinter2.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
